@@ -120,16 +120,11 @@ margin-bottom: 120px;
 .second{
 	background: url('../img/icon3.jpg') no-repeat top;
 }
-
-
-
-
 .mail{
 	background: #ecf3f8;
 	padding-top: 100px;
 	padding-bottom: 108px;
 }
-
 
 .form{
 	margin-top: 64px;
@@ -213,14 +208,19 @@ input{
 		width: 90%
 	}
 }
-/*0px-576px
-.magic{
-		margin-left: 0;
-		flex-direction: column;
-	}
+/*0px-576px*/
+
 @media screen and (max-width: 576px){
 .container{
 		width: 90%;
 	}
+	.magic{
+		display: flex;
+		flex-direction: column;
+	}
+	.magic-mini{
+		width: auto;
+		margin-bottom: 30px;
+	}
 } 
-*/
+
