@@ -166,27 +166,13 @@ input{
 
 } 
 
-/*  992px-1200px
+/*  992px-1200px */
 @media screen and (max-width: 1200px) {
 	.container{
 		width: 960px;
 	}
-.magic{
-margin-right: auto;
 }
-.magic-mini{
-	width: auto;
-	margin-bottom: 30px;
-	margin-right: 10px;
-}
-.icon{
-	width: auto;
-}
-
-
-
-}
-768px-992px
+/*768px-992px*/
 @media screen and (max-width: 992px) {
 	.container{
 		width: 720px;
@@ -205,7 +191,7 @@ margin-right: auto;
 		width: 549px;
 		margin: 72px auto 0;
 	}
- 
+ /*
 	.magic-mini{
 
 		margin-bottom: 20px;
@@ -213,9 +199,9 @@ margin-right: auto;
 	} 
 	.magic{
 		flex-direction: column;
-	}
+	}*/
 	
-	
+/*	
 
 }
 576px-768px
