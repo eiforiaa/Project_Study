@@ -191,20 +191,9 @@ input{
 		width: 549px;
 		margin: 72px auto 0;
 	}
- /*
-	.magic-mini{
-
-		margin-bottom: 20px;
-		width: auto;
-	} 
-	.magic{
-		flex-direction: column;
-	}*/
-	
-/*	
-
 }
-576px-768px
+
+/*576px-768px*/
 @media screen and (max-width: 768px) {
 .container{
 		width: 540px;
@@ -223,12 +212,8 @@ input{
 	.form{
 		width: 90%
 	}
-	
-
-	
-	
 }
-0px-576px
+/*0px-576px
 .magic{
 		margin-left: 0;
 		flex-direction: column;
