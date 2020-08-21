@@ -26,6 +26,9 @@ h1, h2, h3, h4, h5, h6 {
 	width: 557px;
 	color: #fff;
 }
+.title{
+	font-size: 37px;
+}
 
 p{
 	line-height: 1.8em;
@@ -87,8 +90,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4ebdfe', end
 .magic{
 	  display: flex;
 	  justify-content: space-between; 
-	/* flex-direction: column; */
-	/* display: flex; */
 		margin-top: 70px;
 }
 .magic-mini{
@@ -137,6 +138,7 @@ input{
 	height: 48px;
 	width: 345px;
 	margin-top: 15px; 
+	border: 0;
 }
 .btn-form{
 	margin-top: 15px;
@@ -146,6 +148,7 @@ input{
 	background: #ffd429;
 	color: #000;
 	width: 345px;
+	border: 0;
 }
 
 
